@@ -1,15 +1,15 @@
 # React-Solidity-Typescript Starter
 
-##How to start
+## How to start
 
-###Backend
+### Backend
 pre: cd into /backend
 0) start local testnet ---> npm run testnet
 1) Compile contracts ---> npm run build
 2) Test contracts -->     npm run test
 3) Deploy contracts -->   npm run deploy
 
-###Frontend
+### Frontend
 pre: cd into /frontend
 1) Install dependencies ---> npm install
 2) start frontend ---> npm run dev
