@@ -1,5 +1,12 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/40567147/159485872-7f63766a-3c91-48dc-aa37-fb5894232acc.png)
 
+This starter template comes as a monorepo for your next fullstack dApp Development. This will be your tools:
+:pager: React + Vite + Typescript
+ :page_with_curl: Solidity + Hardhat + Typescript
+
+Typescript is integrated in the frontend as well in the smart contract part. This gives you a HUGE advantage, why? Because you can use types from the smart contract in your frontend part ( with the help of typechain https://github.com/dethcrypto/TypeChain). 
+
+
 ## How to start
 
 ### Backend
