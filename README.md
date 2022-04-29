@@ -24,6 +24,12 @@ pre: cd into /frontend
 2) start frontend ---> npm run dev
 3) build --> npm run build
 
+Here are some ready to use IPFS services 📡, that you can easily use for your next project 🚀
+
+🔗 https://pinata.cloud  
+🔗 https://nft.storage 
+🔗 https://docs.moralis.io/moralis-dapp/files/ipfs
+🔗 https://infura.io/product/ipfs 
 
 🌞 GM TO ALL OF YOU AND KEEP LEARNING WEB 3 -Johannes (https://twitter.com/XamHans)
 
